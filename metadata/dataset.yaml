@@ -1,0 +1,11 @@
+contact: wenfei.huang@st.oth-regensburg.de
+creators: Wenfei, Huang
+description: A month of power data for 3 home.
+institution: Ostbayerische Technische Hochschule Regensburg
+long_name: Smart Meter Data Set
+name: SmartMe
+number_of_buildings: 7
+publication_date: 2023
+schema: https://github.com/nilmtk/nilm_metadata/tree/v0.2
+subject: Disaggregated power demand from domestic buildings.
+timezone: Europe/Berlin

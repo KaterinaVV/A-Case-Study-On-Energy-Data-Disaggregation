@@ -1,0 +1,8 @@
+appliances: []
+elec_meters:
+  1:
+    data_location: /building5/elec/meter1
+    device_model: Smart Meter
+    site_meter: true
+instance: 5
+original_name: Wohnung5

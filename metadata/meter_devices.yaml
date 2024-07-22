@@ -1,0 +1,10 @@
+Smart Meter:
+  manufacturer: Test Manufacturer
+  max_sample_period: 30
+  measurements:
+  - lower_limit: 0
+    physical_quantity: power
+    type: active
+    upper_limit: 50000
+  model: Smart Meter
+  sample_period: 1
